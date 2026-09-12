@@ -1,4 +1,4 @@
-age = int(input("Enter you Age: "))
+age = int(input("Enter your Age: "))
 if(age < 18 ):
   print("You are ineligible to vote")
 else:
